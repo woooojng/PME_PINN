@@ -1,0 +1,10 @@
+*.npz
+*.ckpt
+*.log
+
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints/
+.vscode/
